@@ -5,4 +5,5 @@ npm i @material-ui/core @material-ui/icons axios @material-ui/lab
 npm i react-router-dom
 
 
-![MOVIE APP](https://user-images.githubusercontent.com/51760520/124705920-1172ac80-df14-11eb-9568-1e91968b1273.png)
+![image](https://github.com/user-attachments/assets/60f107d4-ae06-4247-9261-91636ff840a3)
+
